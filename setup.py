@@ -13,7 +13,7 @@ setuptools.setup(
     description="defaultdict with deepcopy support",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/NickNackGus/defaultdict",
+    url="https://github.com/NickNackGus/pydefaultdict",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
