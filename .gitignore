@@ -1,2 +1,5 @@
 __pycache__
 *.pyc
+build
+defaultdict_NickNackGus.egg-info
+dist
