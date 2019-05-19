@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="defaultdict-NickNackGus",
-    version="1.0.0",
+    version="1.0.2",
     author="NickNackGus",
     author_email="NickNackGus@gmail.com",
     description="defaultdict with deepcopy support",
